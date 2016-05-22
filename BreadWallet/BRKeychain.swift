@@ -26,7 +26,7 @@
 import Foundation
 
 
-let BreadDefaultService = "org.voisine.breadwallet"
+let BreadDefaultService = "org.kazanski.acredite"
 
 enum BRKeychainError: String, ErrorType {
     // this is borrowed from the "Locksmith" library: https://github.com/matthewpalmer/Locksmith
