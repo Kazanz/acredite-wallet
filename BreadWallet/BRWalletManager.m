@@ -51,7 +51,7 @@
 #define TICKER_FAILOVER_URL @"https://bitpay.com/rates"
 
 #define SEED_ENTROPY_LENGTH   (128/8)
-#define SEC_ATTR_SERVICE      @"org.kazanski.acredite"
+#define SEC_ATTR_SERVICE      @"org.kazanz.acredite"
 #define DEFAULT_CURRENCY_CODE @"USD"
 #define DEFAULT_SPENT_LIMIT   SATOSHIS
 #define DEFAULT_FEE_PER_KB    ((TX_FEE_PER_KB*1000 + 190)/191) // default fee-per-kb to match standard fee on 191byte tx

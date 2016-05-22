@@ -1118,7 +1118,7 @@
 						CreatedOnToolsVersion = 6.1;
 					};
 					75D5F3BD191EC270004AB296 = {
-						DevelopmentTeam = BM3Y766ST9;
+						DevelopmentTeam = 4LKCBP5W87;
 						SystemCapabilities = {
 							com.apple.ApplicationGroups.iOS = {
 								enabled = 1;
@@ -1140,11 +1140,11 @@
 					};
 					BA913BE91BD57E4D005A7C0E = {
 						CreatedOnToolsVersion = 7.0.1;
-						DevelopmentTeam = 4LKCBP5W87;
+						DevelopmentTeam = BM3Y766ST9;
 					};
 					BAE12BE41B2DEE7F00895CC5 = {
 						CreatedOnToolsVersion = 6.3.2;
-						DevelopmentTeam = 4LKCBP5W87;
+						DevelopmentTeam = BM3Y766ST9;
 						SystemCapabilities = {
 							com.apple.ApplicationGroups.iOS = {
 								enabled = 1;
@@ -1685,7 +1685,7 @@
 				);
 				INFOPLIST_FILE = BreadWallet/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = org.kazanski.acredite;
+				PRODUCT_BUNDLE_IDENTIFIER = org.kazanz.acredite;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "BreadWallet/breadwallet-Bridging-Header.h";
@@ -1714,7 +1714,7 @@
 				);
 				INFOPLIST_FILE = BreadWallet/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = org.kazanski.acredite;
+				PRODUCT_BUNDLE_IDENTIFIER = org.kazanz.acredite;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "BreadWallet/breadwallet-Bridging-Header.h";
@@ -1765,7 +1765,7 @@
 				EMBEDDED_CONTENT_CONTAINS_SWIFT = YES;
 				IBSC_MODULE = WatchApp_Extension;
 				INFOPLIST_FILE = WatchApp/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = org.kazanski.acredite.watchkitapp;
+				PRODUCT_BUNDLE_IDENTIFIER = org.kazanz.acredite.watchkitapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
@@ -1783,7 +1783,7 @@
 				EMBEDDED_CONTENT_CONTAINS_SWIFT = YES;
 				IBSC_MODULE = WatchApp_Extension;
 				INFOPLIST_FILE = WatchApp/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = org.kazanski.acredite.watchkitapp;
+				PRODUCT_BUNDLE_IDENTIFIER = org.kazanz.acredite.watchkitapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
@@ -1801,7 +1801,7 @@
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "iPhone Developer";
 				INFOPLIST_FILE = "WatchApp Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = org.kazanski.acredite.watchkitapp.watchkitextension;
+				PRODUCT_BUNDLE_IDENTIFIER = org.kazanz.acredite.watchkitapp.watchkitextension;
 				PRODUCT_NAME = "${TARGET_NAME}";
 				PROVISIONING_PROFILE = "";
 				SDKROOT = watchos;
@@ -1822,7 +1822,7 @@
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "iPhone Developer";
 				INFOPLIST_FILE = "WatchApp Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = org.kazanski.acredite.watchkitapp.watchkitextension;
+				PRODUCT_BUNDLE_IDENTIFIER = org.kazanz.acredite.watchkitapp.watchkitextension;
 				PRODUCT_NAME = "${TARGET_NAME}";
 				PROVISIONING_PROFILE = "";
 				SDKROOT = watchos;
@@ -1854,7 +1854,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
 				MTL_ENABLE_DEBUG_INFO = YES;
-				PRODUCT_BUNDLE_IDENTIFIER = "org.kazanski.acredite.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.kazanz.acredite.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				SKIP_INSTALL = YES;
@@ -1881,7 +1881,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
 				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_BUNDLE_IDENTIFIER = "org.kazanski.acredite.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.kazanz.acredite.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				SKIP_INSTALL = YES;

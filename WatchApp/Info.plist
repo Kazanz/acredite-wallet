@@ -28,7 +28,7 @@
 		<string>UIInterfaceOrientationPortraitUpsideDown</string>
 	</array>
 	<key>WKCompanionAppBundleIdentifier</key>
-	<string>org.kazanski.acredite</string>
+	<string>org.kazanz.acredite</string>
 	<key>WKWatchKitApp</key>
 	<true/>
 </dict>
